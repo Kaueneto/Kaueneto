@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mim:
 Estudante de Engenharia de Software.<br>Tenho experiência em criar pequenas soluções internas, scripts e ferramentas que facilitam tarefas repetitivas e melhoram fluxos de trabalho em ambientes com alta demanda.  <br>Atualmente, estou desenvolvendo projetos utilizando HTML, CSS e JavaScript.  <br>Estou sempre buscando unir a tecnologia à prática, aplicando o que aprendo para resolver problemas reais de forma eficiente.<br>
 
 
