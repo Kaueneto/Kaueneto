@@ -16,12 +16,6 @@ Estudante de Engenharia de Software.<br>Tenho experiência em criar pequenas sol
 [![](https://visitcount.itsvg.in/api?id=kaueneto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kaueneto/Kaueneto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
