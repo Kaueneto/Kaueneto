@@ -2,22 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Gera todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
+  workflow_dispatch:      # Permite executar manualmente também
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gera o snake.svg
+        uses: Platane/snk@master
         with:
           github_user_name: Kaueneto
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Commit & Push
+
+      - name: Commit e push do arquivo gerado
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: 'Generated snake.svg'
-          add: 'dist/*.svg'
+          message: "🐍 Atualiza snake.svg"
+          add: "dist/*.svg"
