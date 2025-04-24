@@ -1,8 +1,6 @@
 ## Sobre mim:
 Estudante de Engenharia de Software.<br>Tenho experiência em criar pequenas soluções internas, scripts e ferramentas que facilitam tarefas repetitivas e melhoram fluxos de trabalho em ambientes com alta demanda.  <br>Atualmente, estou desenvolvendo projetos utilizando HTML, CSS e JavaScript.  <br>Estou sempre buscando unir a tecnologia à prática, aplicando o que aprendo para resolver problemas reais de forma eficiente.<br>
 
-
-## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/kaucardoso1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kauecrdso/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kauê-cardoso) 
 
 ## 💻 Tech Stack:
