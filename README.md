@@ -27,7 +27,6 @@
   <td align="center"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark&titles=true" width="40"/><br>.NET</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark&titles=true" width="40"/><br>Java</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark&titles=true" width="40"/><br>JavaScript</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark&titles=true" width="40"/><br>Python</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark&titles=true" width="40"/><br>HTML</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark&titles=true" width="40"/><br>CSS</td>
 </tr>
@@ -37,7 +36,6 @@
   <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark&titles=true" width="40"/><br>PostgreSQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark&titles=true" width="40"/><br>Firebase</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=supabase&theme=dark&titles=true" width="40"/><br>Supabase</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark&titles=true" width="40"/><br>JavaFX</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark&titles=true" width="40"/><br>Figma</td>
 </tr>
 </table>
