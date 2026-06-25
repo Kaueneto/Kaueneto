@@ -1,9 +1,4 @@
-<h2 align="center">👋 Olá, eu sou Kauê</h2>
-
-<p align="center">
-  💻 Estudante de Programação <br>
-</p>
-
+<h2 align="center">Olá, eu sou Kauê</h2>
 
 
 ---
